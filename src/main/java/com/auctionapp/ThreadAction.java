@@ -10,7 +10,7 @@ public class ThreadAction implements Runnable {
     }
 
     @Override
-    public void run() {
+    public void run(){
         count(time);
     }
 
